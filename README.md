@@ -5,12 +5,13 @@ Este sistema es una solución de software escalable diseñada para mitigar probl
 
 ---
 
-## 👥 Integrantes del Equipo
-- **Alexander Lopez** — Developer & DevOps
-- **Marcelo Bacon** — Developer
-- **Mateo Alba** — Developer
-- **Heymi De la Cruz** — Developer
-- **Pachar** — Developer
+## 👥 Integrantes del Equipo y Gobernanza
+La distribución del desarrollo se organiza bajo roles ágiles y técnicos específicos, sumando una velocidad total estimada de 42 puntos de historia para este sprint:
+
+- **Alexander López** — Backend & Cloud (16 Story Points)
+- **Marcelo Bacon** — Backend & DevOps (16 Story Points)
+- **Mateo Alba** — Frontend & UI (7 Story Points)
+- **Heymi De la Cruz** — Fullstack & QA (3 Story Points)
 
 ---
 
